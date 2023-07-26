@@ -13,3 +13,4 @@ function PonerCardinalidad(frase){
 }
 
 console.log(PonerCardinalidad(frase))
+//
